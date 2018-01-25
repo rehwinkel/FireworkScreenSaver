@@ -7,3 +7,13 @@ I:\Documents\VS\ScreenSaverRemastered\ScreenSaverRemastered\obj\Release\ScreenSa
 I:\Documents\VS\ScreenSaverRemastered\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.csproj.GenerateResource.Cache
 I:\Documents\VS\ScreenSaverRemastered\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.exe
 I:\Documents\VS\ScreenSaverRemastered\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.pdb
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\bin\Release\ScreenSaverRemastered.exe.config
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\bin\Release\ScreenSaverRemastered.exe
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\bin\Release\ScreenSaverRemastered.pdb
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.csprojResolveAssemblyReference.cache
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.Form1.resources
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.Properties.Resources.resources
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.csproj.GenerateResource.Cache
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.csproj.CoreCompileInputs.cache
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.exe
+I:\Documents\VS\FireworkScreenSaver\ScreenSaverRemastered\obj\Release\ScreenSaverRemastered.pdb
